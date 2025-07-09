@@ -1,0 +1,18 @@
+.joke {
+  background: #f0f0f0;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 500px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.joke h3 {
+  color: #333;
+}
+
+.joke p {
+  color: #555;
+  font-size: 18px;
+  margin-top: 10px;
+}
